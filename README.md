@@ -1,5 +1,3 @@
-# 👋 Hello Fellas ...     
-
-Asslema ena **Eya** ! 
+# 👋 Hello Fellas ...      
 
 
